@@ -1,0 +1,20 @@
+Este paquete utiliza FFmpeg como proceso externo, sin modificarlo.
+FFmpeg 7.1 essentials_build-www.gyan.dev
+Copyright (c) 2000-2024 the FFmpeg developers.
+
+Esta compilación indica licencia GNU GPL versión 3 o posterior.
+FFmpeg se proporciona sin garantía. Texto de licencia:
+https://www.gnu.org/licenses/gpl-3.0.html
+Licencia en el árbol de código fuente:
+https://github.com/FFmpeg/FFmpeg/blob/n7.1/COPYING.GPLv3
+Código fuente FFmpeg 7.1:
+https://ffmpeg.org/releases/ffmpeg-7.1.tar.xz
+Información del proveedor de esta compilación y sus fuentes:
+https://www.gyan.dev/ffmpeg/builds/
+
+Binario obtenido del paquete imageio-ffmpeg 0.6.0 para Windows x86_64,
+ya disponible en este espacio de trabajo.
+No se ha modificado ni vinculado al ejecutable de la interfaz C#.
+Antes de redistribuir públicamente el binario de terceros, consulta sus
+condiciones de licencia y los requisitos de entrega del código fuente
+correspondiente, incluidas sus bibliotecas y configuración de compilación.

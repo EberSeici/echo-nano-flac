@@ -1,0 +1,5 @@
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup><OutputType>WinExe</OutputType><TargetFrameworkVersion>v4.8</TargetFrameworkVersion><AssemblyName>EchoNanoFLAC</AssemblyName><OutputPath>bin\</OutputPath><RootNamespace>EchoNanoFLAC</RootNamespace><ApplicationIcon>EchoNanoFLAC.ico</ApplicationIcon></PropertyGroup>
+  <ItemGroup><Reference Include="System"/><Reference Include="System.Core"/><Reference Include="System.Drawing"/><Reference Include="System.Windows.Forms"/><Compile Include="Program.cs"/><None Include="..\ffmpeg.exe"><Link>ffmpeg.exe</Link><CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory></None></ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
+</Project>

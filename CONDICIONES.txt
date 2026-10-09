@@ -1,0 +1,49 @@
+﻿ECHO NANO FLAC 1.5 — USO LIBRE, LICENCIAS Y CRÉDITOS
+
+1. El código propio, la interfaz y el icono del proyecto se ofrecen bajo
+licencia MIT. Puedes usarlos gratuitamente, estudiar el código, modificarlo,
+compartirlo y distribuir tus mejoras, incluso con fines comerciales, conservando
+los avisos de copyright y licencia. El texto MIT íntegro aparece más abajo.
+
+2. El software se entrega tal cual, sin garantías, conforme a la licencia MIT.
+La herramienta conserva los originales y verifica las copias, pero es prudente
+mantener una copia de seguridad de tu biblioteca.
+
+3. Proyecto desarrollado con asistencia de ChatGPT/Codex de OpenAI para
+programación, diseño y pruebas. Esta mención reconoce la ayuda recibida:
+no implica patrocinio, certificación ni respaldo de OpenAI, FiiO o SNOWSKY.
+
+4. FFmpeg es un programa de terceros, ejecutado por separado. No es propiedad
+de este proyecto ni queda relicenciado bajo MIT. La compilación incluida
+declara GNU GPL versión 3 o posterior. Su licencia completa se entrega en
+COPYING.FFmpeg-GPLv3.txt; su procedencia se describe en AVISOS-FFmpeg.txt.
+La redistribución del binario de FFmpeg está sujeta a sus propias condiciones,
+incluida la entrega o disponibilidad del código fuente correspondiente.
+Estos términos no limitan los derechos concedidos por las licencias de terceros.
+
+5. Las contribuciones al código propio son bienvenidas bajo MIT. Los nombres
+y marcas mencionados pertenecen a sus respectivos titulares.
+
+LICENCIA DEL CÓDIGO PROPIO — TEXTO ÍNTEGRO
+
+MIT License
+
+Copyright (c) 2026 Echo Nano FLAC contributors
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
